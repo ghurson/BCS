@@ -1,0 +1,2137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xmax\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-11 14:56+0700\n"
+"PO-Revision-Date: 2014-12-11 14:56+0700\n"
+"Last-Translator: kopasoft <kopasoft@gmail.com>\n"
+"Language-Team: KopaTheme <support@kopasoft.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:30
+msgid "<span>&laquo;</span> Previous"
+msgstr ""
+
+#: ../comments.php:31
+msgid "Next <span>&raquo;</span>"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:68
+#: ../framework/includes/admin/class-kopa-admin-assets.php:146
+#: ../framework/includes/admin/class-kopa-admin-settings.php:854
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Your full name please."
+msgstr ""
+
+#: ../comments.php:77
+msgid "Your email"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Email address"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Used for gravatar."
+msgstr ""
+
+# @ circle
+#: ../comments.php:96
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:97
+msgid "Link back if you want."
+msgstr ""
+
+#: ../comments.php:104
+msgid "Your comments"
+msgstr ""
+
+#: ../comments.php:116
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:117
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:122
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:123
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:124
+msgid "(Cancel)"
+msgstr ""
+
+#: ../comments.php:125
+msgid "Post Comment"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:98
+#: ../framework/includes/admin/class-kopa-admin-settings.php:711
+msgid "Enter font name"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:100
+msgid "Custom font"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:104
+#: ../framework/includes/admin/class-kopa-admin-settings.php:716
+msgid "Upload .woff font file"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:109
+#: ../framework/includes/admin/class-kopa-admin-settings.php:721
+msgid "Upload .ttf font file"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:114
+#: ../framework/includes/admin/class-kopa-admin-settings.php:726
+msgid "Upload .eot font file"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:119
+#: ../framework/includes/admin/class-kopa-admin-settings.php:731
+msgid "Upload .svg font file"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:124
+#: ../framework/includes/admin/class-kopa-admin-assets.php:170
+msgid "Upload"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:125
+#: ../framework/includes/admin/class-kopa-admin-assets.php:171
+#: ../framework/includes/admin/class-kopa-admin-settings.php:627
+msgid "Remove"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:126
+msgid "Click OK to reset. Any selected settings will be lost!"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:127
+msgid "Click OK to import. Any selected settings will be lost!"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:128
+#: ../framework/includes/admin/class-kopa-admin-assets.php:141
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:138
+msgid "Warning"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:139
+msgid "Error"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:140
+msgid "Info"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:142
+msgid "Close"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:143
+msgid "Delete"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:144
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:147
+#: ../framework/includes/admin/class-kopa-admin-settings.php:855
+#: ../inc/hook.php:740 ../inc/theme-option.php:386
+#: ../woocommerce/include/theme-options.php:20
+msgid "Description"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:148
+#: ../framework/includes/admin/class-kopa-admin-settings.php:856
+msgid "Before Widget"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:149
+#: ../framework/includes/admin/class-kopa-admin-settings.php:857
+msgid "After Widget"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:150
+#: ../framework/includes/admin/class-kopa-admin-settings.php:858
+msgid "Before Title"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-assets.php:151
+#: ../framework/includes/admin/class-kopa-admin-settings.php:859
+msgid "After Title"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-backup.php:115
+msgid "There was a problem importing your settings."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-backup.php:121
+msgid "The import file you've provided is invalid."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-backup.php:141
+msgid "Settings successfully imported."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:45
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:48
+msgid ""
+"Thank you for using Kopa Framework. Should you need help using or extending "
+"Kopa Framework please read the documentation."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:50
+msgid "Kopa Framework Documentation"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:50
+msgid "Developer API Docs"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:56
+msgid "Support"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:59
+#, php-format
+msgid ""
+"After <a href=\"%s\">reading the documentation</a>, for further assistance "
+"you can use the <a href=\"%s\">community forum</a>, or if you have access as "
+"a Kopatheme customer, <a href=\"%s\">our support desk</a>."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:61
+msgid "Community Support"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:61
+msgid "Customer Support"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:67
+msgid "Found a bug?"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:70
+#, php-format
+msgid ""
+"If you find a bug within Kopa Framework core you can create a ticket via <a "
+"href=\"%s\">Kopatheme ticket</a>. Ensure you read the <a href=\"%s"
+"\">contribution guide</a> prior to submitting your report. Be as descriptive "
+"as possible."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:72
+msgid "Report a bug"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:78
+msgid "For more information:"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:79
+msgid "About Kopa Framework"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:80
+msgid "Project on WordPress.org"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-help.php:81
+msgid "Official Themes"
+msgstr ""
+
+# @ circle
+#: ../framework/includes/admin/class-kopa-admin-menus.php:49
+#: ../framework/includes/admin/class-kopa-admin-menus.php:50
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:68
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:102
+#: ../framework/includes/admin/settings/class-kopa-settings-theme-options.php:28
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-settings.php:99
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-settings.php:115
+msgid "Default options restored."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-settings.php:120
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-settings.php:641
+msgid "View File"
+msgstr ""
+
+#: ../framework/includes/admin/class-kopa-admin-settings.php:659
+msgid "preview text"
+msgstr ""
+
+#: ../framework/includes/admin/layouts/class-kopa-layout-box.php:53
+msgid "Check if you would like to use custom setting"
+msgstr ""
+
+#: ../framework/includes/admin/layouts/class-kopa-layout-box.php:65
+msgid "Select layout"
+msgstr ""
+
+#: ../framework/includes/admin/layouts/class-kopa-layout-box.php:91
+msgid "&mdash;Select sidebar&mdash;"
+msgstr ""
+
+#: ../framework/includes/admin/layouts/class-kopa-layout-box.php:120
+#: ../framework/includes/admin/layouts/class-kopa-layout-post-type.php:49
+msgid "Custom Layout"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:28
+msgid "Backup"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:48
+msgid "Restore Default"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:54
+msgid "Restore Default Settings"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:55
+msgid ""
+"Select one of the options below. When you click the \"Restore Defaults\" "
+"button below, the Kopa Framework will restore corresponding default settings "
+"for you."
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:67
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:101
+msgid "All Settings (This will contain all of the options listed below.)"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:69
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:103
+msgid "Sidebars &amp; Layouts"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:76
+msgid "Import/Export"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:82
+msgid "Import Settings"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:85
+msgid ""
+"If you have settings in a backup file on your computer, the Kopa Framework "
+"can import those into this site.\n"
+"To get started, upload your backup file to import from below."
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:89
+msgid "Export Settings"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-backup-manager.php:92
+#, php-format
+msgid ""
+"When you click the button below, the Kopa Framework will create a text file "
+"for you to save to your computer.\n"
+"This text file can be used to restore your settings here on \"%s\", or to "
+"easily setup another website with the same settings."
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:28
+msgid "Layout Manager"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:67
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:73
+msgid "Frontpage"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:83
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:89
+msgid "Blog"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:99
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:105
+msgid "Page"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:115
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:121
+msgid "Post"
+msgstr ""
+
+# @ circle
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:131
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:137
+#: ../inc/layout.php:135
+msgid "Search"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:147
+#: ../layouts/error-404.php:12
+msgid "404"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-layout-manager.php:153
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-sidebar-manager.php:28
+#: ../framework/includes/admin/settings/class-kopa-settings-sidebar-manager.php:49
+msgid "Sidebar Manager"
+msgstr ""
+
+#: ../framework/includes/admin/settings/class-kopa-settings-sidebar-manager.php:55
+msgid ""
+"Add as many sidebars (widget areas) as you need. Creating sidebars (widget "
+"areas) is unlimited."
+msgstr ""
+
+#: ../framework/includes/class-kopa-ajax.php:61
+msgid "This sidebar is currently containing widgets."
+msgstr ""
+
+#: ../framework/includes/class-kopa-ajax.php:85
+#, php-format
+msgid "%1$s of %2$s."
+msgstr ""
+
+#: ../framework/includes/class-kopa-ajax.php:102
+msgid "This sidebar is being used in:"
+msgstr ""
+
+#: ../framework/includes/class-kopa-ajax.php:103
+msgid "You cannot delete this sidebar."
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12512
+msgid "Thin"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12516
+msgid "Thin/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12520
+msgid "Extra-Light"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12524
+msgid "Extra-Light/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12528
+msgid "Light"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12532
+msgid "Light/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12536
+#: ../framework/includes/kopa-fonts-functions.php:12544
+msgid "Normal"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12540
+#: ../framework/includes/kopa-fonts-functions.php:12548
+msgid "Normal/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12552
+msgid "Medium"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12556
+msgid "Medium/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12560
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12564
+msgid "Semi-Bold/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12568
+#: ../framework/includes/kopa-fonts-functions.php:12576
+msgid "Bold"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12572
+#: ../framework/includes/kopa-fonts-functions.php:12580
+msgid "Bold/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12584
+msgid "Extra-Bold"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12588
+msgid "Extra-Bold/Italic"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12592
+msgid "Ultra-Bold"
+msgstr ""
+
+#: ../framework/includes/kopa-fonts-functions.php:12596
+msgid "Ultra-Bold/Italic"
+msgstr ""
+
+#: ../inc/addon/BFIThumb.class.php:133
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: ../inc/addon/BFIThumb.class.php:252
+msgid "Image rotate failed."
+msgstr ""
+
+#: ../inc/addon/BFIThumb.class.php:274
+msgid "Image opacity change failed."
+msgstr ""
+
+#: ../inc/addon/BFIThumb.class.php:353
+msgid "Image color change failed."
+msgstr ""
+
+#: ../inc/addon/BFIThumb.class.php:369
+msgid "Image grayscale failed."
+msgstr ""
+
+#: ../inc/addon/BFIThumb.class.php:385
+msgid "Image negate failed."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:200
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:201
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:203
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:204
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:205
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:206
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:207
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:208
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:212
+#: ../inc/addon/TGMPluginActivation.class.php:1965
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:213
+#: ../inc/addon/TGMPluginActivation.class.php:1652
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:556
+#: ../inc/addon/TGMPluginActivation.class.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1197
+msgid "Required"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1304
+#: ../inc/addon/TGMPluginActivation.class.php:1412
+msgid "Install"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1326
+#: ../inc/addon/TGMPluginActivation.class.php:1413
+msgid "Activate"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1392
+msgid "Source"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1393
+msgid "Type"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1394
+msgid "Status"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2079
+#: ../inc/addon/TGMPluginActivation.class.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2079
+#: ../inc/addon/TGMPluginActivation.class.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/addon/TGMPluginActivation.class.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ circle
+#: ../inc/ajax.php:30
+msgid "Contact Form:"
+msgstr ""
+
+#: ../inc/ajax.php:35
+msgid "Oops! errors occured. Please try again.."
+msgstr ""
+
+#: ../inc/ajax.php:38
+msgid "Success! Your email address has been sent"
+msgstr ""
+
+#: ../inc/config.php:12
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/config.php:13
+msgid "Footer Menu"
+msgstr ""
+
+# @ circle
+#: ../inc/config.php:37
+msgid "Facebook"
+msgstr ""
+
+# @ circle
+#: ../inc/config.php:44
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/config.php:51
+msgid "Goggle Plus"
+msgstr ""
+
+#: ../inc/config.php:58
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/config.php:65
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/config.php:72
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/config.php:79
+msgid "Rss"
+msgstr ""
+
+#: ../inc/config.php:80
+msgid "enter HIDE if you want to disable this option"
+msgstr ""
+
+#: ../inc/config.php:92
+msgid "Body"
+msgstr ""
+
+#: ../inc/config.php:102
+msgid "Main menu"
+msgstr ""
+
+#: ../inc/config.php:112
+msgid "Footer menu"
+msgstr ""
+
+#: ../inc/config.php:122
+msgid "Widget title - main"
+msgstr ""
+
+#: ../inc/config.php:132
+msgid "Widget title - footer"
+msgstr ""
+
+#: ../inc/config.php:142
+msgid "Post title"
+msgstr ""
+
+#: ../inc/config.php:152
+msgid "Post content"
+msgstr ""
+
+#: ../inc/config.php:162
+msgid "H1"
+msgstr ""
+
+#: ../inc/config.php:172
+msgid "H2"
+msgstr ""
+
+#: ../inc/config.php:182
+msgid "H3"
+msgstr ""
+
+#: ../inc/config.php:192
+msgid "H4"
+msgstr ""
+
+#: ../inc/config.php:202
+msgid "H5"
+msgstr ""
+
+#: ../inc/config.php:212
+msgid "H6"
+msgstr ""
+
+#: ../inc/config.php:228
+msgid "1150 x 510 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:232
+msgid "Widget - Slider"
+msgstr ""
+
+#: ../inc/config.php:237
+msgid "565 x 340 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:241
+msgid "Widget - Slider without title"
+msgstr ""
+
+#: ../inc/config.php:246
+msgid "371 x 200 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:250
+msgid "Widget - Featured video"
+msgstr ""
+
+#: ../inc/config.php:255
+msgid "620 x 376 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:259
+msgid "Widget - Articles masonry (large)"
+msgstr ""
+
+#: ../inc/config.php:264
+msgid "274 x 184 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:268
+msgid "Widget - Articles masonry (small)"
+msgstr ""
+
+#: ../inc/config.php:273
+msgid "80 x 80 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:277
+msgid "Widget - Testimonials carousel"
+msgstr ""
+
+#: ../inc/config.php:282
+msgid "272 x 266 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:286
+msgid "Widget - Articles list with thumbnail left"
+msgstr ""
+
+#: ../inc/config.php:291 ../inc/config.php:300 ../inc/config.php:336
+msgid "272 x 200 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:295
+msgid "Portfolios archive"
+msgstr ""
+
+#: ../inc/config.php:304 ../inc/config.php:313
+msgid "Widget - Portfolios filter bar"
+msgstr ""
+
+#: ../inc/config.php:309 ../inc/config.php:327
+msgid "800 x auto (pixel)"
+msgstr ""
+
+#: ../inc/config.php:318
+msgid "858 x 415 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:322
+msgid "Blog thumbnail"
+msgstr ""
+
+#: ../inc/config.php:331
+msgid "Post - lightbox"
+msgstr ""
+
+#: ../inc/config.php:340
+msgid "Post - related"
+msgstr ""
+
+#: ../inc/config.php:345
+msgid "76 x 76 (pixel)"
+msgstr ""
+
+#: ../inc/config.php:349
+msgid "Widget - small thumbnail"
+msgstr ""
+
+#: ../inc/hook.php:60 ../searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: ../inc/hook.php:61 ../inc/hook.php:63
+msgid "Loading..."
+msgstr ""
+
+#: ../inc/hook.php:62 ../layouts/portfolio-archive.php:114
+msgid "Load more"
+msgstr ""
+
+#: ../inc/hook.php:64
+msgid "View"
+msgstr ""
+
+#: ../inc/hook.php:65
+msgid "Views"
+msgstr ""
+
+#: ../inc/hook.php:68
+msgid "Checking"
+msgstr ""
+
+#: ../inc/hook.php:69
+msgid "Send message"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:70
+msgid "Sending..."
+msgstr ""
+
+#: ../inc/hook.php:73
+msgid "Your captcha is incorrect. Please try again"
+msgstr ""
+
+#: ../inc/hook.php:74
+msgid "Captcha is required"
+msgstr ""
+
+#: ../inc/hook.php:77
+msgid "Please enter your name"
+msgstr ""
+
+#: ../inc/hook.php:78 ../inc/hook.php:90
+msgid "At least {0} characters required"
+msgstr ""
+
+#: ../inc/hook.php:81
+msgid "Please enter your email"
+msgstr ""
+
+#: ../inc/hook.php:82
+msgid "Please enter a valid email"
+msgstr ""
+
+#: ../inc/hook.php:85
+msgid "Please enter your url"
+msgstr ""
+
+#: ../inc/hook.php:86
+msgid "Please enter a valid url"
+msgstr ""
+
+#: ../inc/hook.php:89
+msgid "Please enter a message"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:143
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/hook.php:185
+msgid "Stay in touch"
+msgstr ""
+
+#: ../inc/hook.php:225
+msgid "Newsletter Signup"
+msgstr ""
+
+#: ../inc/hook.php:234 ../inc/hook.php:251
+msgid "Your Email"
+msgstr ""
+
+#: ../inc/hook.php:237 ../inc/hook.php:252
+msgid "Subscribe"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:319
+msgid "Home"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:363
+#, php-format
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: ../inc/hook.php:368
+#, php-format
+msgid "Searched for \"%s\" return %s results"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:392
+msgid "Page not found"
+msgstr ""
+
+#: ../inc/hook.php:394
+msgid "Latest News"
+msgstr ""
+
+#: ../inc/hook.php:416
+msgid "Comment Now"
+msgstr ""
+
+#: ../inc/hook.php:419
+msgid "Comment"
+msgstr ""
+
+#: ../inc/hook.php:422
+msgid "Comments"
+msgstr ""
+
+#: ../inc/hook.php:426 ../layouts/blog-page.php:80
+#: ../layouts/search-page.php:69 ../layouts/single-portfolio.php:95
+#: ../layouts/single-post.php:94
+msgid "0 Comment"
+msgstr ""
+
+#: ../inc/hook.php:442
+msgid "I recommend this page: "
+msgstr ""
+
+#: ../inc/hook.php:442
+msgid ". You can read it on: "
+msgstr ""
+
+#: ../inc/hook.php:450
+msgid "Share This:"
+msgstr ""
+
+#: ../inc/hook.php:491
+msgid "Follow me on:"
+msgstr ""
+
+#: ../inc/hook.php:501 ../inc/hook.php:508
+#, php-format
+msgid "Follow author %s on %s"
+msgstr ""
+
+#: ../inc/hook.php:537
+msgid "Jobs"
+msgstr ""
+
+#: ../inc/hook.php:538
+msgid "Facebook URL"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:539
+msgid "Twitter URL"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:540
+msgid "Dribbble URL"
+msgstr ""
+
+# @ circle
+#: ../inc/hook.php:541
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/hook.php:542
+msgid "Flickr URL"
+msgstr ""
+
+#: ../inc/hook.php:543
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../inc/hook.php:596
+msgid "Related articles"
+msgstr ""
+
+#: ../inc/hook.php:677
+msgid "Related portfolio"
+msgstr ""
+
+#: ../inc/hook.php:728 ../inc/theme-option.php:109
+#: ../woocommerce/include/theme-options.php:9
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../inc/hook.php:735 ../inc/page-builder.php:457
+#: ../woocommerce/include/theme-options.php:14
+msgid "Title"
+msgstr ""
+
+#: ../inc/hook.php:745 ../inc/page-builder.php:251 ../inc/page-builder.php:773
+#: ../inc/theme-option.php:121
+msgid "Background image"
+msgstr ""
+
+#: ../inc/hook.php:748
+msgid "Please upload image with size 1364 x 115 (px)"
+msgstr ""
+
+#: ../inc/layout.php:9 ../inc/page-builder.php:502 ../inc/page-builder.php:640
+#: ../inc/page-builder.php:668 ../inc/sidebar.php:7
+msgid "Right"
+msgstr ""
+
+#: ../inc/layout.php:10 ../inc/sidebar.php:8
+msgid "Footer 1"
+msgstr ""
+
+#: ../inc/layout.php:11 ../inc/sidebar.php:9
+msgid "Footer 2"
+msgstr ""
+
+#: ../inc/layout.php:12 ../inc/sidebar.php:10
+msgid "Footer 3"
+msgstr ""
+
+#: ../inc/layout.php:13 ../inc/sidebar.php:11
+msgid "Footer 4"
+msgstr ""
+
+#: ../inc/layout.php:14 ../inc/sidebar.php:12
+msgid "Footer 5"
+msgstr ""
+
+#: ../inc/layout.php:44
+msgid "Static page"
+msgstr ""
+
+#: ../inc/layout.php:81
+msgid "Blog page"
+msgstr ""
+
+#: ../inc/layout.php:108 ../inc/theme-option.php:266
+msgid "Single post"
+msgstr ""
+
+#: ../inc/layout.php:161
+msgid "Error page - 404"
+msgstr ""
+
+#: ../inc/page-builder.php:17
+msgid "Area 1"
+msgstr ""
+
+#: ../inc/page-builder.php:19
+msgid "Area 2"
+msgstr ""
+
+#: ../inc/page-builder.php:20
+msgid "Area 2.1"
+msgstr ""
+
+#: ../inc/page-builder.php:21
+msgid "Area 2.2"
+msgstr ""
+
+#: ../inc/page-builder.php:22
+msgid "Area 2.3"
+msgstr ""
+
+#: ../inc/page-builder.php:23
+msgid "Area 2.4"
+msgstr ""
+
+#: ../inc/page-builder.php:25
+msgid "Area 3"
+msgstr ""
+
+#: ../inc/page-builder.php:26
+msgid "Area 3.1"
+msgstr ""
+
+#: ../inc/page-builder.php:27 ../inc/page-builder.php:36
+msgid "Area 3.2"
+msgstr ""
+
+#: ../inc/page-builder.php:28
+msgid "Area 3.3"
+msgstr ""
+
+#: ../inc/page-builder.php:29
+msgid "Area 3.4"
+msgstr ""
+
+#: ../inc/page-builder.php:31
+msgid "Area 3.1.1"
+msgstr ""
+
+#: ../inc/page-builder.php:32
+msgid "Area 3.1.2"
+msgstr ""
+
+#: ../inc/page-builder.php:33
+msgid "Area 3.1.3"
+msgstr ""
+
+#: ../inc/page-builder.php:34
+msgid "Area 3.1.4"
+msgstr ""
+
+#: ../inc/page-builder.php:38
+msgid "Area 4"
+msgstr ""
+
+#: ../inc/page-builder.php:39
+msgid "Area 4.1"
+msgstr ""
+
+#: ../inc/page-builder.php:40
+msgid "Area 4.2"
+msgstr ""
+
+#: ../inc/page-builder.php:41
+msgid "Area 4.3"
+msgstr ""
+
+#: ../inc/page-builder.php:43
+msgid "Area 5"
+msgstr ""
+
+#: ../inc/page-builder.php:44
+msgid "Area 5.1"
+msgstr ""
+
+#: ../inc/page-builder.php:45
+msgid "Area 5.2"
+msgstr ""
+
+#: ../inc/page-builder.php:46
+msgid "Area 5.3"
+msgstr ""
+
+#: ../inc/page-builder.php:48
+msgid "Area 6"
+msgstr ""
+
+#: ../inc/page-builder.php:50
+msgid "Area 7"
+msgstr ""
+
+#: ../inc/page-builder.php:52
+msgid "Area 8"
+msgstr ""
+
+#: ../inc/page-builder.php:59
+msgid "-- Disable --"
+msgstr ""
+
+#: ../inc/page-builder.php:63
+msgid "Front page 1"
+msgstr ""
+
+#: ../inc/page-builder.php:67 ../inc/page-builder.php:156
+#: ../inc/page-builder.php:290 ../inc/page-builder.php:388
+msgid "Custom"
+msgstr ""
+
+#: ../inc/page-builder.php:71 ../inc/page-builder.php:160
+#: ../inc/page-builder.php:294 ../inc/page-builder.php:392
+#: ../inc/page-builder.php:678 ../inc/page-builder.php:731
+#: ../inc/page-builder.php:752 ../inc/page-builder.php:811
+#: ../inc/page-builder.php:861
+msgid "CSS code"
+msgstr ""
+
+#: ../inc/page-builder.php:81 ../inc/page-builder.php:170
+#: ../inc/page-builder.php:304 ../inc/page-builder.php:402
+msgid "Row 1"
+msgstr ""
+
+#: ../inc/page-builder.php:90 ../inc/page-builder.php:179
+#: ../inc/page-builder.php:313 ../inc/page-builder.php:411
+msgid "Row 2"
+msgstr ""
+
+#: ../inc/page-builder.php:102 ../inc/page-builder.php:188
+#: ../inc/page-builder.php:322 ../inc/page-builder.php:421
+msgid "Row 3"
+msgstr ""
+
+#: ../inc/page-builder.php:111 ../inc/page-builder.php:211
+#: ../inc/page-builder.php:334 ../inc/page-builder.php:430
+msgid "Row 4"
+msgstr ""
+
+#: ../inc/page-builder.php:122 ../inc/page-builder.php:220
+#: ../inc/page-builder.php:343 ../inc/page-builder.php:440
+msgid "Row 5"
+msgstr ""
+
+#: ../inc/page-builder.php:131 ../inc/page-builder.php:230
+#: ../inc/page-builder.php:354
+msgid "Row 6"
+msgstr ""
+
+#: ../inc/page-builder.php:140 ../inc/page-builder.php:363
+msgid "Row 7"
+msgstr ""
+
+#: ../inc/page-builder.php:152
+msgid "Front page 2"
+msgstr ""
+
+#: ../inc/page-builder.php:243
+msgid "Front page 3 (parallax header)"
+msgstr ""
+
+#: ../inc/page-builder.php:247 ../inc/page-builder.php:760
+msgid "Parallax"
+msgstr ""
+
+#: ../inc/page-builder.php:256 ../inc/page-builder.php:778
+msgid "Overlay color"
+msgstr ""
+
+#: ../inc/page-builder.php:261 ../inc/page-builder.php:783
+msgid "Overlay opacity"
+msgstr ""
+
+#: ../inc/page-builder.php:264 ../inc/page-builder.php:786
+msgid "0 %"
+msgstr ""
+
+#: ../inc/page-builder.php:265 ../inc/page-builder.php:787
+msgid "5 %"
+msgstr ""
+
+#: ../inc/page-builder.php:266 ../inc/page-builder.php:788
+msgid "10 %"
+msgstr ""
+
+#: ../inc/page-builder.php:267 ../inc/page-builder.php:789
+msgid "15 %"
+msgstr ""
+
+#: ../inc/page-builder.php:268 ../inc/page-builder.php:790
+msgid "20 %"
+msgstr ""
+
+#: ../inc/page-builder.php:269 ../inc/page-builder.php:791
+msgid "25 %"
+msgstr ""
+
+#: ../inc/page-builder.php:270 ../inc/page-builder.php:792
+msgid "30 %"
+msgstr ""
+
+#: ../inc/page-builder.php:271 ../inc/page-builder.php:793
+msgid "35 %"
+msgstr ""
+
+#: ../inc/page-builder.php:272 ../inc/page-builder.php:794
+msgid "40 %"
+msgstr ""
+
+#: ../inc/page-builder.php:273 ../inc/page-builder.php:795
+msgid "45 %"
+msgstr ""
+
+#: ../inc/page-builder.php:274 ../inc/page-builder.php:796
+msgid "50 %"
+msgstr ""
+
+#: ../inc/page-builder.php:275 ../inc/page-builder.php:797
+msgid "55 %"
+msgstr ""
+
+#: ../inc/page-builder.php:276 ../inc/page-builder.php:798
+msgid "60 %"
+msgstr ""
+
+#: ../inc/page-builder.php:277 ../inc/page-builder.php:799
+msgid "65 %"
+msgstr ""
+
+#: ../inc/page-builder.php:278 ../inc/page-builder.php:800
+msgid "70 %"
+msgstr ""
+
+#: ../inc/page-builder.php:279 ../inc/page-builder.php:801
+msgid "75 %"
+msgstr ""
+
+#: ../inc/page-builder.php:280 ../inc/page-builder.php:802
+msgid "80 %"
+msgstr ""
+
+#: ../inc/page-builder.php:281 ../inc/page-builder.php:803
+msgid "85 %"
+msgstr ""
+
+#: ../inc/page-builder.php:282 ../inc/page-builder.php:804
+msgid "90 %"
+msgstr ""
+
+#: ../inc/page-builder.php:283 ../inc/page-builder.php:805
+msgid "95 %"
+msgstr ""
+
+#: ../inc/page-builder.php:284 ../inc/page-builder.php:806
+msgid "100 %"
+msgstr ""
+
+#: ../inc/page-builder.php:372
+msgid "Row 8"
+msgstr ""
+
+#: ../inc/page-builder.php:384
+msgid "About page"
+msgstr ""
+
+#: ../inc/page-builder.php:461
+msgid "Style"
+msgstr ""
+
+#: ../inc/page-builder.php:464
+msgid "-- Default (H3 size 1) --"
+msgstr ""
+
+#: ../inc/page-builder.php:465
+msgid "Title with position:absolute"
+msgstr ""
+
+#: ../inc/page-builder.php:466
+msgid "Title with background color"
+msgstr ""
+
+#: ../inc/page-builder.php:467
+msgid "Title with sub title"
+msgstr ""
+
+#: ../inc/page-builder.php:468
+msgid "Title with bottom border (3px)"
+msgstr ""
+
+#: ../inc/page-builder.php:469
+msgid "Title with bottom border (1px)"
+msgstr ""
+
+#: ../inc/page-builder.php:474
+msgid "Sub title"
+msgstr ""
+
+#: ../inc/page-builder.php:479
+msgid "Icon"
+msgstr ""
+
+#: ../inc/page-builder.php:484 ../inc/page-builder.php:622
+#: ../inc/page-builder.php:650
+msgid "Top"
+msgstr ""
+
+#: ../inc/page-builder.php:490 ../inc/page-builder.php:628
+#: ../inc/page-builder.php:656
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/page-builder.php:496 ../inc/page-builder.php:634
+#: ../inc/page-builder.php:662
+msgid "Left"
+msgstr ""
+
+#: ../inc/page-builder.php:508 ../inc/page-builder.php:512
+msgid "Effect"
+msgstr ""
+
+#: ../inc/page-builder.php:515
+msgid "-- Select a effect --"
+msgstr ""
+
+#: ../inc/page-builder.php:586
+msgid "Duration"
+msgstr ""
+
+#: ../inc/page-builder.php:602
+msgid "Delay"
+msgstr ""
+
+#: ../inc/page-builder.php:618
+msgid "Margin"
+msgstr ""
+
+#: ../inc/page-builder.php:646
+msgid "Padding"
+msgstr ""
+
+# @ circle
+#: ../inc/page-builder.php:674 ../inc/theme-option.php:604
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/page-builder.php:682
+msgid ""
+"Example: <code>ID a {color: red; }</code> <br/> ID: The ID of this widget."
+msgstr ""
+
+#: ../inc/page-builder.php:689
+msgid "Outer"
+msgstr ""
+
+#: ../inc/page-builder.php:693
+msgid "Show outer"
+msgstr ""
+
+#: ../inc/page-builder.php:696 ../inc/page-builder.php:767
+#: ../inc/page-builder.php:826
+msgid "Yes"
+msgstr ""
+
+#: ../inc/page-builder.php:697 ../inc/page-builder.php:768
+#: ../inc/page-builder.php:827
+msgid "No"
+msgstr ""
+
+#: ../inc/page-builder.php:702 ../inc/page-builder.php:832
+msgid "Background color"
+msgstr ""
+
+#: ../inc/page-builder.php:707 ../inc/page-builder.php:837
+msgid "Margin top"
+msgstr ""
+
+#: ../inc/page-builder.php:713 ../inc/page-builder.php:843
+msgid "Margin bottom"
+msgstr ""
+
+#: ../inc/page-builder.php:719 ../inc/page-builder.php:849
+msgid "Padding top"
+msgstr ""
+
+#: ../inc/page-builder.php:725 ../inc/page-builder.php:855
+msgid "Padding bottom"
+msgstr ""
+
+#: ../inc/page-builder.php:735
+msgid ""
+"Example: <code>ID a {color: red; }</code> <br/> ID: The ID of outer tag."
+msgstr ""
+
+#: ../inc/page-builder.php:739
+msgid "Container"
+msgstr ""
+
+#: ../inc/page-builder.php:743
+msgid "Layout"
+msgstr ""
+
+#: ../inc/page-builder.php:746
+msgid "Wide"
+msgstr ""
+
+#: ../inc/page-builder.php:747
+msgid "Boxes"
+msgstr ""
+
+#: ../inc/page-builder.php:756
+msgid ""
+"Example: <code>ID a {color: red; }</code> <br/> ID: The ID of container tag."
+msgstr ""
+
+#: ../inc/page-builder.php:764
+msgid "Use parallax"
+msgstr ""
+
+#: ../inc/page-builder.php:815
+msgid ""
+"Example: <code>ID a {color: red; }</code> <br/> ID: The ID of parallax tag."
+msgstr ""
+
+#: ../inc/page-builder.php:819
+msgid "Inner"
+msgstr ""
+
+#: ../inc/page-builder.php:823
+msgid "Show inner"
+msgstr ""
+
+#: ../inc/page-builder.php:865
+msgid ""
+"Example: <code>ID a {color: red; }</code> <br/> ID: The ID of inner tag."
+msgstr ""
+
+#: ../inc/theme-option.php:9
+msgid "Logo & Favicon"
+msgstr ""
+
+#: ../inc/theme-option.php:16
+msgid "Main Logo"
+msgstr ""
+
+#: ../inc/theme-option.php:21
+msgid "Logo image"
+msgstr ""
+
+#: ../inc/theme-option.php:24
+msgid "upload your logo image"
+msgstr ""
+
+#: ../inc/theme-option.php:28
+msgid "Margin top (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:33
+msgid "Margin bottom (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:39
+msgid "Margin left (px)"
+msgstr ""
+
+#: ../inc/theme-option.php:44
+msgid "Margin right (px)"
+msgstr ""
+
+# @ circle
+#: ../inc/theme-option.php:57
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/theme-option.php:60
+msgid "upload your favicon image"
+msgstr ""
+
+#: ../inc/theme-option.php:66
+msgid "Apple icon"
+msgstr ""
+
+#: ../inc/theme-option.php:69
+msgid "upload icon for apple device (152x152)"
+msgstr ""
+
+#: ../inc/theme-option.php:75
+msgid "Header"
+msgstr ""
+
+#: ../inc/theme-option.php:86 ../inc/theme-option.php:162
+msgid "Social links"
+msgstr ""
+
+#: ../inc/theme-option.php:92
+msgid "Search form"
+msgstr ""
+
+#: ../inc/theme-option.php:98
+msgid "Sticky menubar"
+msgstr ""
+
+#: ../inc/theme-option.php:101
+msgid "Header information"
+msgstr ""
+
+#: ../inc/theme-option.php:118
+msgid "Show / hide"
+msgstr ""
+
+# @ circle
+#: ../inc/theme-option.php:129
+msgid "Footer"
+msgstr ""
+
+#: ../inc/theme-option.php:134
+msgid "Footer information"
+msgstr ""
+
+#: ../inc/theme-option.php:136
+msgid "e.g. your copyright info, ..."
+msgstr ""
+
+#: ../inc/theme-option.php:143
+msgid "Social & Newsletter"
+msgstr ""
+
+#: ../inc/theme-option.php:153
+msgid "Newsletter and Social are alternate location."
+msgstr ""
+
+#: ../inc/theme-option.php:154
+msgid "Newsletter and Socials located on the one line."
+msgstr ""
+
+#: ../inc/theme-option.php:168
+msgid "Newsletter form"
+msgstr ""
+
+#: ../inc/theme-option.php:172
+msgid "Feed Burner URI"
+msgstr ""
+
+#: ../inc/theme-option.php:174
+msgid "Please enter only URI (you can read document for more information)."
+msgstr ""
+
+#: ../inc/theme-option.php:180
+msgid "Mail Chimp HTML"
+msgstr ""
+
+#: ../inc/theme-option.php:194
+msgid "Blog posts"
+msgstr ""
+
+#: ../inc/theme-option.php:199
+msgid "The content"
+msgstr ""
+
+#: ../inc/theme-option.php:204
+msgid "For each article in list, show:"
+msgstr ""
+
+#: ../inc/theme-option.php:209
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/theme-option.php:210
+msgid "Full"
+msgstr ""
+
+#: ../inc/theme-option.php:211
+msgid "Limit number of words"
+msgstr ""
+
+#: ../inc/theme-option.php:226 ../inc/theme-option.php:272
+msgid "Metadata"
+msgstr ""
+
+#: ../inc/theme-option.php:235
+msgid "Author"
+msgstr ""
+
+# @ circle
+# @ taxonomy singular name
+#: ../inc/theme-option.php:242 ../inc/theme-option.php:288
+#: ../inc/theme-option.php:342
+msgid "Category"
+msgstr ""
+
+#: ../inc/theme-option.php:249 ../inc/theme-option.php:302
+msgid "Created date"
+msgstr ""
+
+#: ../inc/theme-option.php:256
+msgid "Comment counts"
+msgstr ""
+
+#: ../inc/theme-option.php:281
+msgid "Featured content"
+msgstr ""
+
+# @ circle
+#: ../inc/theme-option.php:295
+msgid "Tags"
+msgstr ""
+
+#: ../inc/theme-option.php:309
+msgid "Number of comments"
+msgstr ""
+
+#: ../inc/theme-option.php:316
+msgid "Share buttons"
+msgstr ""
+
+#: ../inc/theme-option.php:323
+msgid "Author information"
+msgstr ""
+
+#: ../inc/theme-option.php:332
+msgid "Related posts"
+msgstr ""
+
+#: ../inc/theme-option.php:337
+msgid "Get by"
+msgstr ""
+
+# @ circle
+# @ taxonomy singular name
+#: ../inc/theme-option.php:343
+msgid "Tag"
+msgstr ""
+
+#: ../inc/theme-option.php:346
+msgid "Number of posts"
+msgstr ""
+
+#: ../inc/theme-option.php:359
+msgid "Social link"
+msgstr ""
+
+#: ../inc/theme-option.php:368
+msgid "Contact Page"
+msgstr ""
+
+#: ../inc/theme-option.php:374
+msgid "Contact information"
+msgstr ""
+
+#: ../inc/theme-option.php:380 ../inc/theme-option.php:447
+msgid "Caption"
+msgstr ""
+
+#: ../inc/theme-option.php:392
+msgid "Address"
+msgstr ""
+
+#: ../inc/theme-option.php:398
+msgid "Phone number"
+msgstr ""
+
+# @ circle
+#: ../inc/theme-option.php:404
+msgid "Email"
+msgstr ""
+
+#: ../inc/theme-option.php:418
+msgid "Google maps"
+msgstr ""
+
+#: ../inc/theme-option.php:423
+msgid "Latitude"
+msgstr ""
+
+#: ../inc/theme-option.php:429
+msgid "Longitude"
+msgstr ""
+
+#: ../inc/theme-option.php:442
+msgid "Contact form"
+msgstr ""
+
+#: ../inc/theme-option.php:454
+msgid "Reply template"
+msgstr ""
+
+#: ../inc/theme-option.php:471
+msgid "Custom Color"
+msgstr ""
+
+#: ../inc/theme-option.php:476
+msgid "Enable custom color"
+msgstr ""
+
+#: ../inc/theme-option.php:483
+msgid "Custom color"
+msgstr ""
+
+#: ../inc/theme-option.php:490
+msgid "Primary"
+msgstr ""
+
+#: ../inc/theme-option.php:494
+msgid "Secondary"
+msgstr ""
+
+#: ../inc/theme-option.php:513
+msgid "Custom Font"
+msgstr ""
+
+#: ../inc/theme-option.php:519
+msgid "Upload your fonts"
+msgstr ""
+
+#: ../inc/theme-option.php:578
+msgid "Enable"
+msgstr ""
+
+# @ circle
+#: ../layouts/blog-page.php:80 ../layouts/search-page.php:69
+#: ../layouts/single-portfolio.php:95 ../layouts/single-post.php:94
+msgid "No Comment"
+msgstr ""
+
+# @ circle
+#: ../layouts/blog-page.php:80 ../layouts/search-page.php:69
+#: ../layouts/single-portfolio.php:95 ../layouts/single-post.php:94
+msgid "1 Comment"
+msgstr ""
+
+# @ circle
+#: ../layouts/blog-page.php:80 ../layouts/search-page.php:69
+#: ../layouts/single-portfolio.php:95 ../layouts/single-post.php:94
+msgid "% Comments"
+msgstr ""
+
+#: ../layouts/blog-page.php:131 ../layouts/search-page.php:109
+#: ../layouts/single-portfolio.php:160 ../layouts/single-post.php:153
+#: ../layouts/static-page.php:50
+msgid "Nothing Found..."
+msgstr ""
+
+#: ../layouts/error-404.php:15
+msgid "Page not found..."
+msgstr ""
+
+#: ../layouts/error-404.php:16
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it we'll try to fix it. In "
+"the meantime, try one of this options:"
+msgstr ""
+
+#: ../layouts/error-404.php:18
+msgid "Go back to previous page"
+msgstr ""
+
+#: ../layouts/error-404.php:19
+msgid "Go to homepage"
+msgstr ""
+
+# @ circle
+#: ../layouts/portfolio-archive.php:83
+msgid "All"
+msgstr ""
+
+#: ../layouts/single-portfolio.php:129 ../layouts/single-post.php:116
+#: ../layouts/static-page.php:37
+msgid "Next"
+msgstr ""
+
+#: ../layouts/single-portfolio.php:130 ../layouts/single-post.php:117
+#: ../layouts/static-page.php:38
+msgid "Previous"
+msgstr ""
+
+#: ../layouts/single-post.php:126
+msgid "Tags :"
+msgstr ""
+
+#: ../woocommerce/include/hook.php:5 ../woocommerce/include/hook.php:10
+msgid "Shop"
+msgstr ""
+
+#: ../woocommerce/include/layout.php:8 ../woocommerce/include/layout.php:21
+#: ../woocommerce/include/layout.php:27
+msgid "Product archive"
+msgstr ""
+
+#: ../woocommerce/include/layout.php:50 ../woocommerce/include/layout.php:63
+#: ../woocommerce/include/layout.php:69
+msgid "Single product"
+msgstr ""
+
+#: ../woocommerce/include/theme-options.php:4
+#: ../woocommerce/include/theme-options.php:17
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/include/theme-options.php:31
+msgid "Products per row"
+msgstr ""
+
+#: ../woocommerce/include/theme-options.php:37
+msgid "Rows per page"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:38
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""

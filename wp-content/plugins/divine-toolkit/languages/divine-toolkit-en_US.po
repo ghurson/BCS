@@ -1,0 +1,1425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kopa Page Builder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-02 14:40+0700\n"
+"PO-Revision-Date: 2015-04-02 14:58+0700\n"
+"Last-Translator: kopasoft <kopasoft@gmail.com>\n"
+"Language-Team: KopaTheme <support@kopasoft.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../divine-toolkit.php:144
+msgid "Shortcodes"
+msgstr ""
+
+#: ../divine-toolkit.php:145
+msgid "List"
+msgstr ""
+
+#: ../divine-toolkit.php:146
+msgid "Grid"
+msgstr ""
+
+#: ../divine-toolkit.php:147
+msgid "Container"
+msgstr ""
+
+#: ../divine-toolkit.php:148
+msgid "Horizontal Tabs"
+msgstr ""
+
+#: ../divine-toolkit.php:149
+msgid "Vertical Tabs"
+msgstr ""
+
+#: ../divine-toolkit.php:150
+msgid "Accordion"
+msgstr ""
+
+#: ../divine-toolkit.php:151
+msgid "Toggle"
+msgstr ""
+
+#: ../divine-toolkit.php:152
+msgid "Video"
+msgstr ""
+
+#: ../divine-toolkit.php:153
+msgid "Youtube"
+msgstr ""
+
+#: ../divine-toolkit.php:154
+msgid "Vimeo"
+msgstr ""
+
+#: ../divine-toolkit.php:155
+msgid "Mp4"
+msgstr ""
+
+#: ../divine-toolkit.php:156
+msgid "Dropcap"
+msgstr ""
+
+#: ../divine-toolkit.php:157 ../divine-toolkit.php:160
+msgid "Square"
+msgstr ""
+
+#: ../divine-toolkit.php:158
+msgid "Circle"
+msgstr ""
+
+#: ../divine-toolkit.php:159
+msgid "Solid"
+msgstr ""
+
+#: ../divine-toolkit.php:161
+msgid "Blockquote"
+msgstr ""
+
+#: ../divine-toolkit.php:162
+msgid "Icon after"
+msgstr ""
+
+#: ../divine-toolkit.php:163
+msgid "Icon before"
+msgstr ""
+
+#: ../divine-toolkit.php:164
+msgid "Button"
+msgstr ""
+
+#: ../divine-toolkit.php:165
+msgid "Icons"
+msgstr ""
+
+#: ../divine-toolkit.php:166
+msgid "Alert box"
+msgstr ""
+
+#: ../divine-toolkit.php:167
+msgid "Info"
+msgstr ""
+
+#: ../divine-toolkit.php:168
+msgid "Success"
+msgstr ""
+
+#: ../divine-toolkit.php:169
+msgid "Warning"
+msgstr ""
+
+#: ../divine-toolkit.php:170
+msgid "Danger"
+msgstr ""
+
+#: ../divine-toolkit.php:171
+msgid "Contact form"
+msgstr ""
+
+#: ../divine-toolkit.php:172
+msgid "Default"
+msgstr ""
+
+#: ../divine-toolkit.php:173
+msgid "Without border"
+msgstr ""
+
+#: ../divine-toolkit.php:174
+msgid "Style 1"
+msgstr ""
+
+#: ../divine-toolkit.php:175
+msgid "Style 2"
+msgstr ""
+
+#: ../divine-toolkit.php:176
+msgid "Style 3"
+msgstr ""
+
+#: ../divine-toolkit.php:177
+msgid "Small"
+msgstr ""
+
+#: ../divine-toolkit.php:178
+msgid "Medium"
+msgstr ""
+
+#: ../divine-toolkit.php:179
+msgid "Large"
+msgstr ""
+
+#: ../divine-toolkit.php:180
+msgid "Pricing Table"
+msgstr ""
+
+#: ../divine-toolkit.php:181
+msgid "Special"
+msgstr ""
+
+#: ../extra/metabox-fields/gallery.php:19
+#: ../extra/widget-form-fields/gallery.php:25
+msgid "Config"
+msgstr ""
+
+#: ../extra/metabox-fields/icon.php:20
+msgid "Icon picker"
+msgstr ""
+
+#: ../extra/metabox-fields/icon.php:20
+msgid "select"
+msgstr ""
+
+#: ../extra/metabox-fields/icon.php:22
+msgid "Remove"
+msgstr ""
+
+#: ../extra/metabox-fields/icon.php:22
+msgid "remove"
+msgstr ""
+
+#: ../extra/metabox-fields/icon.php:502
+msgid "Search..."
+msgstr ""
+
+#: ../extra/util.php:16
+msgid "second"
+msgstr ""
+
+#: ../extra/util.php:17
+msgid "minute"
+msgstr ""
+
+#: ../extra/util.php:18
+msgid "hour"
+msgstr ""
+
+#: ../extra/util.php:19
+msgid "day"
+msgstr ""
+
+#: ../extra/util.php:20
+msgid "week"
+msgstr ""
+
+#: ../extra/util.php:21
+msgid "month"
+msgstr ""
+
+#: ../extra/util.php:22
+msgid "year"
+msgstr ""
+
+#: ../extra/util.php:23
+msgid "decade"
+msgstr ""
+
+#: ../extra/util.php:32
+msgid "ago"
+msgstr ""
+
+#: ../extra/util.php:35
+msgid "from now"
+msgstr ""
+
+#: ../extra/util.php:45
+msgid "s"
+msgstr ""
+
+#: ../extra/util.php:54 ../extra/util.php:60
+msgid "-- none --"
+msgstr ""
+
+#: ../extra/util.php:69
+#: ../post-types/author/widget/author-information.php:22
+#: ../post-types/contact/widget/contact-form.php:22
+#: ../post-types/contact/widget/contact-information.php:22
+#: ../post-types/contact/widget/google-map.php:22
+#: ../post-types/event/event.php:151
+#: ../post-types/event/widget/events-timeline.php:24
+#: ../post-types/event/widget/events.php:24
+#: ../post-types/other/widget/adsense.php:18
+#: ../post-types/other/widget/contact-information.php:22
+#: ../post-types/other/widget/images-carousel.php:23
+#: ../post-types/portfolio/config.php:17
+#: ../post-types/portfolio/portfolio.php:98
+#: ../post-types/portfolio/widget/portfolios-filter-bar.php:23
+#: ../post-types/portfolio/widget/portfolios-of-an-author.php:23
+#: ../post-types/post/widget/featured-video.php:24
+#: ../post-types/service/service.php:105 ../post-types/slide/slide.php:114
+#: ../post-types/social/widget/latest-tweets.php:22
+#: ../post-types/social/widget/twitter-with-carousel.php:22
+#: ../post-types/staff/staff.php:103
+#: ../post-types/staff/widget/staffs.php:24
+#: ../post-types/testimonial/testimonial.php:119
+#: ../post-types/testimonial/widget/testimonials-carousel.php:24
+#: ../post-types/testimonial/widget/testimonials-with-border.php:24
+msgid "Title"
+msgstr ""
+
+#: ../extra/util.php:74
+msgid "Categories"
+msgstr ""
+
+#: ../extra/util.php:80
+msgid "Relation"
+msgstr ""
+
+#: ../extra/util.php:83
+msgid "AND"
+msgstr ""
+
+#: ../extra/util.php:84
+msgid "OR"
+msgstr ""
+
+#: ../extra/util.php:90 ../post-types/event/event.php:152
+#: ../post-types/event/widget/events-timeline.php:45
+#: ../post-types/event/widget/events.php:45
+#: ../post-types/portfolio/config.php:62
+#: ../post-types/portfolio/portfolio.php:99
+#: ../post-types/slide/slide.php:115
+#: ../post-types/slide/widget/slider-with-excerpt.php:39
+#: ../post-types/slide/widget/slider-with-only-title.php:39
+#: ../post-types/testimonial/testimonial.php:120
+#: ../post-types/testimonial/widget/testimonials-carousel.php:45
+#: ../post-types/testimonial/widget/testimonials-with-border.php:44
+msgid "Tags"
+msgstr ""
+
+#: ../extra/util.php:97
+msgid "Order"
+msgstr ""
+
+#: ../extra/util.php:99
+msgid "ASC"
+msgstr ""
+
+#: ../extra/util.php:100
+msgid "DESC"
+msgstr ""
+
+#: ../extra/util.php:106
+msgid "Orderby"
+msgstr ""
+
+#: ../extra/util.php:108 ../post-types/portfolio/portfolio.php:100
+msgid "Date"
+msgstr ""
+
+#: ../extra/util.php:109
+msgid "Random"
+msgstr ""
+
+#: ../extra/util.php:110 ../post-types/portfolio/config.php:76
+msgid "Number of comments"
+msgstr ""
+
+#: ../extra/util.php:116
+msgid "Number of posts"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:15
+msgid "Display a information of an author."
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:17
+#: ../post-types/portfolio/config.php:90
+msgid "Author information"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:27
+#: ../post-types/contact/widget/contact-form.php:59
+#: ../shortcodes/contact.php:63
+msgid "Name"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:32
+#: ../post-types/staff/staff.php:68 ../post-types/staff/staff.php:104
+msgid "Biographical Info"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:37
+#: ../post-types/testimonial/testimonial.php:95
+#: ../post-types/testimonial/testimonial.php:121
+msgid "Jobs"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:42
+msgid "Facebook URL"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:47
+msgid "Twitter URL"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:52
+msgid "Google plus URL"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:57
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:62
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../post-types/author/widget/author-information.php:121
+#, php-format
+msgid "Follow author %s on %s"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:15
+#: ../post-types/contact/widget/contact-information.php:15
+#: ../post-types/other/widget/contact-information.php:15
+msgid "Display your contact information."
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:17
+msgid "Contact Form"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:60
+#: ../shortcodes/contact.php:64
+msgid "Your full name please."
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:72
+#: ../post-types/contact/widget/contact-information.php:42
+#: ../post-types/other/widget/contact-information.php:42
+#: ../shortcodes/contact.php:76
+msgid "Email"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:73
+#: ../shortcodes/contact.php:77
+msgid "Your email address."
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:86
+#: ../shortcodes/contact.php:90
+msgid "URL"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:87
+#: ../shortcodes/contact.php:91
+msgid "Your website url."
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:94
+#: ../shortcodes/contact.php:98
+msgid "Your Message"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-form.php:106
+#: ../shortcodes/contact.php:110
+msgid "Send Message"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-information.php:17
+#: ../post-types/other/widget/contact-information.php:17
+msgid "Contact Information"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-information.php:27
+#: ../post-types/other/widget/contact-information.php:27
+msgid "Introduction"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-information.php:32
+#: ../post-types/other/widget/contact-information.php:32
+msgid "Address"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-information.php:37
+#: ../post-types/other/widget/contact-information.php:37
+msgid "Phone"
+msgstr ""
+
+#: ../post-types/contact/widget/contact-information.php:47
+msgid "Custom info"
+msgstr ""
+
+#: ../post-types/contact/widget/google-map.php:15
+msgid "Display your google map."
+msgstr ""
+
+#: ../post-types/contact/widget/google-map.php:17
+msgid "Google Map"
+msgstr ""
+
+#: ../post-types/contact/widget/google-map.php:27
+msgid "Latitude"
+msgstr ""
+
+#: ../post-types/contact/widget/google-map.php:32
+msgid "Longitude"
+msgstr ""
+
+#: ../post-types/contact/widget/google-map.php:37
+#: ../post-types/other/widget/images-carousel.php:38
+msgid "Height"
+msgstr ""
+
+#: ../post-types/event/event.php:25
+msgctxt "post type general name"
+msgid "Events"
+msgstr ""
+
+#: ../post-types/event/event.php:26
+msgctxt "post type singular name"
+msgid "Event"
+msgstr ""
+
+#: ../post-types/event/event.php:27
+msgctxt "admin menu"
+msgid "Events"
+msgstr ""
+
+#: ../post-types/event/event.php:28
+msgctxt "add new on admin bar"
+msgid "Event"
+msgstr ""
+
+#: ../post-types/event/event.php:29
+msgctxt "event"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/event/event.php:30
+msgid "Add New Event"
+msgstr ""
+
+#: ../post-types/event/event.php:31
+msgid "New Event"
+msgstr ""
+
+#: ../post-types/event/event.php:32
+msgid "Edit Event"
+msgstr ""
+
+#: ../post-types/event/event.php:33
+msgid "View Event"
+msgstr ""
+
+#: ../post-types/event/event.php:34
+msgid "All Events"
+msgstr ""
+
+#: ../post-types/event/event.php:35
+msgid "Search Events"
+msgstr ""
+
+#: ../post-types/event/event.php:36
+msgid "Parent Events:"
+msgstr ""
+
+#: ../post-types/event/event.php:37
+msgid "No events found."
+msgstr ""
+
+#: ../post-types/event/event.php:38
+msgid "No events found in Trash."
+msgstr ""
+
+#: ../post-types/event/event.php:61
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: ../post-types/event/event.php:62
+#: ../post-types/portfolio/portfolio.php:69
+#: ../post-types/slide/slide.php:60
+#: ../post-types/testimonial/testimonial.php:60
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: ../post-types/event/event.php:63
+#: ../post-types/portfolio/portfolio.php:70
+#: ../post-types/slide/slide.php:61
+#: ../post-types/testimonial/testimonial.php:61
+msgid "Search Tags"
+msgstr ""
+
+#: ../post-types/event/event.php:64
+#: ../post-types/portfolio/portfolio.php:71
+#: ../post-types/slide/slide.php:62
+#: ../post-types/testimonial/testimonial.php:62
+msgid "All Tags"
+msgstr ""
+
+#: ../post-types/event/event.php:65
+#: ../post-types/portfolio/portfolio.php:72
+#: ../post-types/slide/slide.php:63
+#: ../post-types/testimonial/testimonial.php:63
+msgid "Parent Tag"
+msgstr ""
+
+#: ../post-types/event/event.php:66
+#: ../post-types/portfolio/portfolio.php:73
+#: ../post-types/slide/slide.php:64
+#: ../post-types/testimonial/testimonial.php:64
+msgid "Parent Tag:"
+msgstr ""
+
+#: ../post-types/event/event.php:67
+#: ../post-types/portfolio/portfolio.php:74
+#: ../post-types/slide/slide.php:65
+#: ../post-types/testimonial/testimonial.php:65
+msgid "Edit Tag"
+msgstr ""
+
+#: ../post-types/event/event.php:68
+#: ../post-types/portfolio/portfolio.php:75
+#: ../post-types/slide/slide.php:66
+#: ../post-types/testimonial/testimonial.php:66
+msgid "Update Tag"
+msgstr ""
+
+#: ../post-types/event/event.php:69
+#: ../post-types/portfolio/portfolio.php:76
+#: ../post-types/slide/slide.php:67
+#: ../post-types/testimonial/testimonial.php:67
+msgid "Add New Tag"
+msgstr ""
+
+#: ../post-types/event/event.php:70
+#: ../post-types/portfolio/portfolio.php:77
+#: ../post-types/slide/slide.php:68
+#: ../post-types/testimonial/testimonial.php:68
+msgid "New Tag Name"
+msgstr ""
+
+#: ../post-types/event/event.php:71
+#: ../post-types/portfolio/portfolio.php:78
+#: ../post-types/slide/slide.php:69
+#: ../post-types/testimonial/testimonial.php:69
+msgid "Tag"
+msgstr ""
+
+#: ../post-types/event/event.php:99 ../post-types/service/service.php:73
+#: ../post-types/slide/slide.php:88 ../post-types/staff/staff.php:61
+#: ../post-types/testimonial/testimonial.php:88
+msgid "Options"
+msgstr ""
+
+#: ../post-types/event/event.php:106 ../post-types/event/event.php:153
+msgid "Location"
+msgstr ""
+
+#: ../post-types/event/event.php:111
+msgid "Start date"
+msgstr ""
+
+#: ../post-types/event/event.php:119
+msgid "Start time"
+msgstr ""
+
+#: ../post-types/event/event.php:127
+msgid "End date"
+msgstr ""
+
+#: ../post-types/event/event.php:135
+msgid "End time"
+msgstr ""
+
+#: ../post-types/event/event.php:150
+#: ../post-types/portfolio/portfolio.php:96
+#: ../post-types/service/service.php:104 ../post-types/slide/slide.php:112
+#: ../post-types/staff/staff.php:101
+#: ../post-types/testimonial/testimonial.php:117
+msgid "<input type=\"checkbox\" />"
+msgstr ""
+
+#: ../post-types/event/event.php:154
+msgid "Start"
+msgstr ""
+
+#: ../post-types/event/event.php:155
+msgid "End"
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:16
+msgid "Display events list with timeline layout."
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:18
+msgid "Events Timeline"
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:29
+#: ../post-types/event/widget/events.php:29
+msgid "Number of event"
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:33
+#: ../post-types/event/widget/events.php:33
+#: ../post-types/slide/widget/slider-with-excerpt.php:28
+#: ../post-types/slide/widget/slider-with-only-title.php:28
+#: ../post-types/testimonial/widget/testimonials-carousel.php:33
+#: ../post-types/testimonial/widget/testimonials-with-border.php:33
+msgid "-- All --"
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:140
+#: ../post-types/event/widget/events-timeline.php:303
+#: ../post-types/event/widget/events.php:132
+#, php-format
+msgid "&nbsp;<span>%s</span> to <span>%s</span>"
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:148
+#: ../post-types/event/widget/events-timeline.php:311
+#: ../post-types/event/widget/events.php:140
+msgid "Start: "
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:164
+#: ../post-types/event/widget/events-timeline.php:327
+#: ../post-types/event/widget/events.php:156
+msgid "End: "
+msgstr ""
+
+#: ../post-types/event/widget/events-timeline.php:195
+msgid "Load more"
+msgstr ""
+
+#: ../post-types/event/widget/events.php:16
+msgid "Display events list."
+msgstr ""
+
+#: ../post-types/event/widget/events.php:18
+msgid "Events List"
+msgstr ""
+
+#: ../post-types/other/widget/adsense.php:10
+msgid "Display your banner adsense with link."
+msgstr ""
+
+#: ../post-types/other/widget/adsense.php:12
+msgid "Adsense"
+msgstr ""
+
+#: ../post-types/other/widget/adsense.php:23
+msgid "Banner"
+msgstr ""
+
+#: ../post-types/other/widget/adsense.php:28
+#: ../post-types/service/service.php:85
+#: ../post-types/service/service.php:107 ../post-types/slide/slide.php:116
+#: ../post-types/testimonial/testimonial.php:100
+msgid "Link to"
+msgstr ""
+
+#: ../post-types/other/widget/images-carousel.php:16
+msgid "Display images list with carousel effect."
+msgstr ""
+
+#: ../post-types/other/widget/images-carousel.php:18
+msgid "Images (carousel)"
+msgstr ""
+
+#: ../post-types/other/widget/images-carousel.php:28
+msgid "Images"
+msgstr ""
+
+#: ../post-types/other/widget/images-carousel.php:33
+msgid "Width"
+msgstr ""
+
+#: ../post-types/other/widget/tagline-arrow.php:16
+msgid "Display a tagline with caption, description and button."
+msgstr ""
+
+#: ../post-types/other/widget/tagline-arrow.php:18
+msgid "Tagline (arrow)"
+msgstr ""
+
+#: ../post-types/other/widget/tagline-arrow.php:23
+msgid "Caption"
+msgstr ""
+
+#: ../post-types/other/widget/tagline-arrow.php:28
+#: ../post-types/other/widget/tagline-square.php:23
+#: ../post-types/portfolio/config.php:23
+#: ../post-types/service/service.php:80
+msgid "Description"
+msgstr ""
+
+#: ../post-types/other/widget/tagline-arrow.php:33
+#: ../post-types/other/widget/tagline-square.php:28
+msgid "Button text"
+msgstr ""
+
+#: ../post-types/other/widget/tagline-arrow.php:38
+#: ../post-types/other/widget/tagline-square.php:33
+msgid "Button URL"
+msgstr ""
+
+#: ../post-types/other/widget/tagline-square.php:16
+msgid "Display a tagline with description and button (ignore caption)."
+msgstr ""
+
+#: ../post-types/other/widget/tagline-square.php:18
+msgid "Tagline (square)"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:7
+#: ../post-types/portfolio/config.php:20
+#: ../post-types/portfolio/config.php:171
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:12
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:33
+msgid "Project per page"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:40
+#: ../post-types/portfolio/layout.php:55
+#: ../post-types/portfolio/layout.php:68
+#: ../post-types/portfolio/layout.php:74
+msgid "Single portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:46
+msgid "Metadata"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:55
+msgid "Featured content"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:69
+msgid "Created date"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:83
+msgid "Share buttons"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:99
+msgid "Related portfolios"
+msgstr ""
+
+#: ../post-types/portfolio/config.php:104
+#: ../post-types/portfolio/widget/portfolios-filter-bar.php:28
+msgid "Number of portfolios"
+msgstr ""
+
+#: ../post-types/portfolio/layout.php:13
+#: ../post-types/portfolio/layout.php:26
+#: ../post-types/portfolio/layout.php:32
+msgid "Portfolio archive"
+msgstr ""
+
+#: ../post-types/portfolio/nav.php:8
+msgid "Portfolio Archive"
+msgstr ""
+
+#: ../post-types/portfolio/nav.php:57
+msgid "Add to Menu"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:33
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:34
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:35
+msgctxt "admin menu"
+msgid "Portfolios"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:36
+msgctxt "add new on admin bar"
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:37
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:38
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:39
+msgid "New Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:40
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:41
+msgid "View Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:42
+msgid "All Portfolios"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:43
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:44
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:45
+msgid "No portfolios found."
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:46
+msgid "No portfolios found in Trash."
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:68
+msgctxt "taxonomy general name"
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../post-types/portfolio/portfolio.php:97
+msgid "Thumb"
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-filter-bar.php:16
+msgid "Display list of portfolio with filter bar on top."
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-filter-bar.php:18
+msgid "Portfolios (filter bar)"
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-filter-bar.php:117
+msgid "All"
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-of-an-author.php:16
+msgid "Display list of portfolio created by an author."
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-of-an-author.php:18
+msgid "Portfolios (of an author)"
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-of-an-author.php:28
+msgid "Portfolio per row"
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-of-an-author.php:40
+msgid "Total row"
+msgstr ""
+
+#: ../post-types/portfolio/widget/portfolios-of-an-author.php:54
+msgid "Author"
+msgstr ""
+
+#: ../post-types/post/widget/articles-list-with-small-thumbnail.php:15
+msgid "Display posts list with small thumbnail (align left)."
+msgstr ""
+
+#: ../post-types/post/widget/articles-list-with-small-thumbnail.php:17
+msgid "Articles List (small thumbnail)"
+msgstr ""
+
+#: ../post-types/post/widget/articles-list-with-thumbnail-left.php:16
+#: ../post-types/post/widget/articles-masonry.php:16
+msgid "Display posts list with masonry effect."
+msgstr ""
+
+#: ../post-types/post/widget/articles-list-with-thumbnail-left.php:18
+msgid "Articles List (thumbnail left)"
+msgstr ""
+
+#: ../post-types/post/widget/articles-list-with-thumbnail-left.php:24
+#: ../post-types/post/widget/featured-video.php:29
+msgid "Excerpt word limit"
+msgstr ""
+
+#: ../post-types/post/widget/articles-masonry.php:18
+msgid "Articles Masonry"
+msgstr ""
+
+#: ../post-types/post/widget/featured-video.php:16
+msgid "Display a video with thumbnail & summary"
+msgstr ""
+
+#: ../post-types/post/widget/featured-video.php:18
+msgid "Featured Video"
+msgstr ""
+
+#: ../post-types/post/widget/featured-video.php:54
+msgid "Select a post"
+msgstr ""
+
+#: ../post-types/service/service.php:25
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: ../post-types/service/service.php:26
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: ../post-types/service/service.php:27
+msgctxt "admin menu"
+msgid "Services"
+msgstr ""
+
+#: ../post-types/service/service.php:28
+msgctxt "add new on admin bar"
+msgid "Service"
+msgstr ""
+
+#: ../post-types/service/service.php:29
+msgctxt "service"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/service/service.php:30
+msgid "Add New Service"
+msgstr ""
+
+#: ../post-types/service/service.php:31
+msgid "New Service"
+msgstr ""
+
+#: ../post-types/service/service.php:32
+msgid "Edit Service"
+msgstr ""
+
+#: ../post-types/service/service.php:33
+msgid "View Service"
+msgstr ""
+
+#: ../post-types/service/service.php:34
+msgid "All Services"
+msgstr ""
+
+#: ../post-types/service/service.php:35
+msgid "Search Services"
+msgstr ""
+
+#: ../post-types/service/service.php:36
+msgid "Parent Services:"
+msgstr ""
+
+#: ../post-types/service/service.php:37
+msgid "No services found."
+msgstr ""
+
+#: ../post-types/service/service.php:38
+msgid "No services found in Trash."
+msgstr ""
+
+#: ../post-types/service/service.php:90
+#: ../post-types/service/service.php:106
+msgid "Icon"
+msgstr ""
+
+#: ../post-types/service/widget/service-icon-center.php:16
+msgid "Display a service (icon align center)"
+msgstr ""
+
+#: ../post-types/service/widget/service-icon-center.php:18
+msgid "Service (icon center)"
+msgstr ""
+
+#: ../post-types/service/widget/service-icon-center.php:36
+#: ../post-types/service/widget/service-icon-left.php:36
+msgid "Select a service"
+msgstr ""
+
+#: ../post-types/service/widget/service-icon-left.php:16
+msgid "Display a service (icon float left)"
+msgstr ""
+
+#: ../post-types/service/widget/service-icon-left.php:18
+msgid "Service (icon left)"
+msgstr ""
+
+#: ../post-types/slide/slide.php:23
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: ../post-types/slide/slide.php:24
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: ../post-types/slide/slide.php:25
+msgctxt "admin menu"
+msgid "Slides"
+msgstr ""
+
+#: ../post-types/slide/slide.php:26
+msgctxt "add new on admin bar"
+msgid "Slide"
+msgstr ""
+
+#: ../post-types/slide/slide.php:27
+msgctxt "slide"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/slide/slide.php:28
+msgid "Add New Slide"
+msgstr ""
+
+#: ../post-types/slide/slide.php:29
+msgid "New Slide"
+msgstr ""
+
+#: ../post-types/slide/slide.php:30
+msgid "Edit Slide"
+msgstr ""
+
+#: ../post-types/slide/slide.php:31
+msgid "View Slide"
+msgstr ""
+
+#: ../post-types/slide/slide.php:32
+msgid "All Slides"
+msgstr ""
+
+#: ../post-types/slide/slide.php:33
+msgid "Search Slides"
+msgstr ""
+
+#: ../post-types/slide/slide.php:34
+msgid "Parent Slides:"
+msgstr ""
+
+#: ../post-types/slide/slide.php:35
+msgid "No slides found."
+msgstr ""
+
+#: ../post-types/slide/slide.php:36
+msgid "No slides found in Trash."
+msgstr ""
+
+#: ../post-types/slide/slide.php:59
+msgctxt "taxonomy general name"
+msgid "Slide Tags"
+msgstr ""
+
+#: ../post-types/slide/slide.php:95
+msgid "Excerpt:"
+msgstr ""
+
+#: ../post-types/slide/slide.php:100
+msgid "Link to:"
+msgstr ""
+
+#: ../post-types/slide/slide.php:113
+msgid "Slide"
+msgstr ""
+
+#: ../post-types/slide/widget/slider-with-excerpt.php:16
+msgid "Display simple slider with title & excerpt per slide."
+msgstr ""
+
+#: ../post-types/slide/widget/slider-with-excerpt.php:18
+msgid "Slider (with excerpt)"
+msgstr ""
+
+#: ../post-types/slide/widget/slider-with-excerpt.php:24
+#: ../post-types/slide/widget/slider-with-only-title.php:24
+msgid "Number of slide"
+msgstr ""
+
+#: ../post-types/slide/widget/slider-with-only-title.php:16
+msgid "Display simple slider with a title per slide."
+msgstr ""
+
+#: ../post-types/slide/widget/slider-with-only-title.php:18
+msgid "Slider (with only title)"
+msgstr ""
+
+#: ../post-types/slide/widget/slider-with-only-title.php:104
+msgid "of"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:15
+msgid "Display list tweets from twitter.com"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:17
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:27
+#: ../post-types/social/widget/twitter-with-carousel.php:27
+msgid "Username"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:32
+#: ../post-types/social/widget/twitter-with-carousel.php:32
+msgid "Number of tweet"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:37
+#: ../post-types/social/widget/twitter-with-carousel.php:42
+msgid "Consumer key"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:42
+#: ../post-types/social/widget/twitter-with-carousel.php:47
+msgid "Consumer secret"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:47
+#: ../post-types/social/widget/twitter-with-carousel.php:52
+msgid "Oauth access token"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:52
+#: ../post-types/social/widget/twitter-with-carousel.php:57
+msgid "Oauth access token secret"
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:79
+#: ../post-types/social/widget/twitter-with-carousel.php:83
+msgid "Loading..."
+msgstr ""
+
+#: ../post-types/social/widget/latest-tweets.php:156
+#: ../post-types/social/widget/twitter-with-carousel.php:160
+msgid "Sorry, there was a problem when load"
+msgstr ""
+
+#: ../post-types/social/widget/twitter-with-carousel.php:15
+msgid "Display list tweets from twitter.com with carousel effect."
+msgstr ""
+
+#: ../post-types/social/widget/twitter-with-carousel.php:17
+msgid "Latest Tweets (carousel)"
+msgstr ""
+
+#: ../post-types/social/widget/twitter-with-carousel.php:37
+msgid "Tweets per slide"
+msgstr ""
+
+#: ../post-types/staff/staff.php:22
+msgctxt "post type general name"
+msgid "Staffs"
+msgstr ""
+
+#: ../post-types/staff/staff.php:23
+msgctxt "post type singular name"
+msgid "Staff"
+msgstr ""
+
+#: ../post-types/staff/staff.php:24
+msgctxt "admin menu"
+msgid "Staffs"
+msgstr ""
+
+#: ../post-types/staff/staff.php:25
+msgctxt "add new on admin bar"
+msgid "Staff"
+msgstr ""
+
+#: ../post-types/staff/staff.php:26
+msgctxt "staff"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/staff/staff.php:27
+msgid "Add New Staff"
+msgstr ""
+
+#: ../post-types/staff/staff.php:28
+msgid "New Staff"
+msgstr ""
+
+#: ../post-types/staff/staff.php:29
+msgid "Edit Staff"
+msgstr ""
+
+#: ../post-types/staff/staff.php:30
+msgid "View Staff"
+msgstr ""
+
+#: ../post-types/staff/staff.php:31
+msgid "All Staffs"
+msgstr ""
+
+#: ../post-types/staff/staff.php:32
+msgid "Search Staffs"
+msgstr ""
+
+#: ../post-types/staff/staff.php:33
+msgid "Parent Staffs:"
+msgstr ""
+
+#: ../post-types/staff/staff.php:34
+msgid "No staffs found."
+msgstr ""
+
+#: ../post-types/staff/staff.php:35
+msgid "No staffs found in Trash."
+msgstr ""
+
+#: ../post-types/staff/staff.php:74 ../post-types/staff/staff.php:105
+msgid "Position"
+msgstr ""
+
+#: ../post-types/staff/staff.php:79
+msgid "Facebook"
+msgstr ""
+
+#: ../post-types/staff/staff.php:84
+msgid "Twitter"
+msgstr ""
+
+#: ../post-types/staff/staff.php:89
+msgid "Google plus"
+msgstr ""
+
+#: ../post-types/staff/staff.php:102
+#: ../post-types/testimonial/testimonial.php:118
+msgid "Avatar"
+msgstr ""
+
+#: ../post-types/staff/staff.php:106
+msgid "Social"
+msgstr ""
+
+#: ../post-types/staff/widget/staffs.php:16
+msgid "Display list of staff by carousel effect."
+msgstr ""
+
+#: ../post-types/staff/widget/staffs.php:18
+msgid "Staffs (carousel)"
+msgstr ""
+
+#: ../post-types/staff/widget/staffs.php:29
+msgid "Number of staff"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:23
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:24
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:25
+msgctxt "admin menu"
+msgid "Testimonials"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:26
+msgctxt "add new on admin bar"
+msgid "Testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:27
+msgctxt "testimonial"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:28
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:29
+msgid "New Testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:30
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:31
+msgid "View Testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:32
+msgid "All Testimonials"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:33
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:34
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:35
+msgid "No testimonials found."
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:36
+msgid "No testimonials found in Trash."
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:59
+msgctxt "taxonomy general name"
+msgid "Testimonial Tags"
+msgstr ""
+
+#: ../post-types/testimonial/testimonial.php:105
+#: ../post-types/testimonial/testimonial.php:122
+msgid "Message"
+msgstr ""
+
+#: ../post-types/testimonial/widget/testimonials-carousel.php:16
+msgid "Display list of testimonial by carousel effect."
+msgstr ""
+
+#: ../post-types/testimonial/widget/testimonials-carousel.php:18
+msgid "Testimonials carousel"
+msgstr ""
+
+#: ../post-types/testimonial/widget/testimonials-carousel.php:29
+#: ../post-types/testimonial/widget/testimonials-with-border.php:29
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../post-types/testimonial/widget/testimonials-with-border.php:16
+msgid "Display list of testimonial with border for container."
+msgstr ""
+
+#: ../post-types/testimonial/widget/testimonials-with-border.php:18
+msgid "Testimonials (with border)"
+msgstr ""
+
+#: ../shortcodes/contact.php:40
+msgid "Telephone:"
+msgstr ""
+
+#: ../shortcodes/contact.php:44
+msgid "Email:"
+msgstr ""

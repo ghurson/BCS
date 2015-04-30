@@ -1,0 +1,14 @@
+/*
+Theme Name: Divine Child
+Theme URI: http://kopatheme.com/
+Author: Kopatheme
+Author URI: http://kopatheme.com/
+Description: Divine theme is designed for portfolios, corporate and e-commerce with flexible layout. The theme is based on KOPATHEME layout manager technique that will let you flexibility choose layout options of every pages within your site. It is very helpful when you are experimenting with visual hierarchy. You can define unlimited sidebar for widget areas, and with powerful custom widgets, the theme provides you more flexibility and ease-of-use for your site
+Version: 1.0.0
+Template: divine
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: light, one-column, two-columns, right-sidebar, fluid-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, sticky-post, translation-ready
+*/
+
+@import url("../divine/style.css");  

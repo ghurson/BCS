@@ -1,0 +1,137 @@
+$border: #e5e5e5;
+$space: 12px;
+$bg: #F5F5F5;
+$white: #FFFFFF;
+
+.dvt-row {
+	@extend .dvt-content-box;
+	margin-right: ($space / 2) * -1;
+	margin-left: ($space / 2) * -1;
+	&:before,
+	&:after{
+		display: table;
+		content: " ";
+	}
+	&:after{
+		clear: both;
+	}
+}
+
+.dvt-content-box{
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.dvt-border-box{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.dvt-pull-right {
+  float: right !important;
+}
+
+.dvt-pull-left {
+  float: left !important;
+}
+
+.dvt-clearfix{
+	&:before,
+	&:after{
+		display: table;
+		content: " ";
+	}	
+	&:after{
+		clear: both;
+	}
+}
+
+.dvt-col-1,
+.dvt-col-2,
+.dvt-col-3,
+.dvt-col-4,
+.dvt-col-5,
+.dvt-col-6,
+.dvt-col-7,
+.dvt-col-8,
+.dvt-col-9,
+.dvt-col-10,
+.dvt-col-11,
+.dvt-col-12 {
+	float: left;
+	@extend .dvt-border-box;
+	padding-left: $space / 2;
+	padding-right: $space / 2;
+}
+
+.dvt-col-12 {width: 100%;}
+
+.dvt-col-11 {width: 91.66666666666666%;}
+
+.dvt-col-10 {width: 83.33333333333334%;}
+
+.dvt-col-9 {width: 75%;}
+
+.dvt-col-8 {width: 66.66666666666666%;}
+
+.dvt-col-7 {width: 58.333333333333336%;}
+
+.dvt-col-6 {width: 50%;}
+
+.dvt-col-5 {width: 41.66666666666667%;}
+
+.dvt-col-4 {width: 33.33333333333333%;}
+
+.dvt-col-3 {width: 25%;}
+
+.dvt-col-2 {width: 16.666666666666664%;}
+
+.dvt-col-1 {width: 8.333333333333332%;}
+
+.kopa-metabox-wrapper{
+	overflow: hidden;	
+}
+
+.dvt-metabox-wrap{
+	margin-top: $space;
+	padding-top: $space;
+	border-top: 1px solid $border;
+	&.dvt-metabox-wrap-first{
+		margin-top: $space / 2;
+		padding-top: 0px;
+		border-top: none;
+	}
+
+	textarea{
+		resize: vertical;
+	}
+}
+
+.dvt-help{
+	margin: $space 0px 0px 0px;
+	font-size: 95%;
+	font-style: italic;
+}
+
+#dvt-list-icon{
+	margin-top: $space * 2;
+	margin-bottom: $space * 2;
+	.dvt-ui-icon-item{		
+		text-align: center;
+		margin-top: $space * 2;
+		a{
+			display: inline-block;
+			width: 24px;			
+			height: 24px;
+			line-height: 24px;						
+			font-size: 16px;			
+			color: #000;	
+			border: 1px solid $border;
+			&:hover{
+				color: red;
+				border-color: red;				
+			}
+		}		
+	}
+}
